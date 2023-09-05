@@ -27,7 +27,7 @@ https://github.com/rahmegm/docker_ola_mundo_html.git
     ```
 8. digite no cmd
      ```sh
-     docker images para visualizar o id da imagem
+     docker images
     ```
     para visualizar o id da imagem
 9. digite no cmd
