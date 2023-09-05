@@ -13,7 +13,7 @@ https://github.com/rahmegm/docker_ola_mundo_html.git
 5. dentro do desktop no cmd
    digitar
    ```sh
-    cd docker_ola_mundo_html
+   cd docker_ola_mundo_html
     ```
 6. dentro da pasta docker_ola_mundo_html no cmd
    digitar
