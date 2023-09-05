@@ -9,8 +9,9 @@
 8. digite docker images para visualizar o id da imagem
 9. digite
     ```sh
-    docker run -d -p 8082:80 |id imagem| substituindo |id imagem| pelo id observado no passo 8
+    docker run -d -p 8082:80 |id imagem|
     ```
+   substituindo |id imagem| pelo id observado no passo 8
 11. digite no browser localhost:8082 para observar a página html
 # Para fechar o container
 1. digite docker ps para visualizar o id do container
